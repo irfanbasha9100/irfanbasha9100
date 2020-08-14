@@ -10,7 +10,7 @@
 - 😄 Pronouns: Engineer, Developer,Hard worker
 - ⚡ Fun fact: Travelling,Reading books,Just chilling when time suggests. 
 
-<!--- 
+
 
 #### Social Connect
 
@@ -27,7 +27,7 @@
 
 
 <!--- 
-[Visitor Count](https : //profile-counter.glitch.me/ummadiviany/count.svg) %
+[Visitor Count](https : //profile-counter.glitch.me/irfanbasha9100/count.svg) 
 
 
 --->
