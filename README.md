@@ -9,11 +9,10 @@
 - 📫 How to reach me: irfanbashaparigi9133@gmail.com
 - 😄 Pronouns: Engineer, Developer,Hard worker
 - ⚡ Fun fact: Travelling,Reading books,Just chilling when time suggests. 
-[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=irfanbasha9100&show_icons=true&theme=radical)
 
 <!--- 
 
-### Social Connect
+#### Social Connect
 
 
 <p align="left">
