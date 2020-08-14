@@ -17,12 +17,12 @@
 
 
 <p align="left">
-<a href= "https://www.linkedin.com/in/p-irfan-basha-2a4864144/"><img height="64" width="64" src="https://simpleicons.org/icons/linkedin.svg" />
-</a>
-<a href= "https://twitter.com/irfan_parigi"><img height="64" width="64" src="https://simpleicons.org/icons/twitter.svg" />
-</a>
-<a href ="irfanbashaparigi9133@gmail.com"><img height="64" width="64" src="https://simpleicons.org/icons/gmail.svg" />
-</a>
+<a href= "https://www.linkedin.com/in/p-irfan-basha-2a4864144/"><img height="64" width="64" src="https://simpleicons.org/icons/linkedin.svg" /></a>
+
+<a href= "https://twitter.com/irfan_parigi"><img height="64" width="64" src="https://simpleicons.org/icons/twitter.svg" /></a>
+
+<a href ="irfanbashaparigi9133@gmail.com"><img height="64" width="64" src="https://simpleicons.org/icons/gmail.svg" /></a>
+
 <a href ="https://instagram.com/irfan__18_"><img height="64" width="64" src="https://simpleicons.org/icons/instagram.svg" /></a>
 </p>
 
@@ -36,5 +36,5 @@
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=irfanbasha9100&show_icons=true&theme=radical)
+![Irfan basha 's github stats](https://github-readme-stats.vercel.app/api?username=irfanbasha9100&show_icons=true&theme=radical)
 
