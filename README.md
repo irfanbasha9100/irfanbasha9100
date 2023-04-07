@@ -1,11 +1,11 @@
 ## Hi there 👋 ![Profile views](https://gpvc.arturio.dev/irfanbasha9100)
 
 
-- 🔭 I’m currently working on Robotics, Computer Vision & IoT
-- 🌱 I’m currently learning Computer vision & IoT applications
+- 🔭 I’m currently working on FrontEnd & IoT
+- 🌱 I’m Passionate about Ecommerce Websites and Job Portals websites
 - 👯 I would love to collaborate with you 
-- 🤔 I’m looking for Internship
-- 💬 Ask me about IoT,Python,CV
+- 🤔 I’m looking for Full time Offers
+- 💬 Ask me about FrontEnd Technology
 - 📫 How to reach me: irfanbashaparigi9133@gmail.com
 - 😄 Pronouns: Engineer, Developer,Hard worker
 - ⚡ Fun fact: Travelling,Reading books,Just chilling when time suggests. 
@@ -29,7 +29,7 @@
 
 ## ⚡ Technologies
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Things speak](https://img.shields.io/badge/Things%20speak-232F7E?style=flat-square&logo=microsoft-azure)
