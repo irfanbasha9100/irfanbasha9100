@@ -1,4 +1,4 @@
-## Hi there 👋 ![Profile views](https://gpvc.arturio.dev/irfanbasha9100)
+## Hi there 👋 
 
 
 - 🔭 I’m currently working on FrontEnd & IoT
